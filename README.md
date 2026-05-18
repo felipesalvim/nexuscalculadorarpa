@@ -99,5 +99,3 @@ O projeto foi idealizado e implementado colaborativamente pelos desenvolvedores:
 
 ---
 *Documento emitido e protegido de acordo com os padrões de segurança lógica de software. Direitos Reservados &copy; 2026.*
-
-```
